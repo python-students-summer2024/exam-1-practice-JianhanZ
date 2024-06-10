@@ -8,10 +8,8 @@ from problem_set_1 import *
 from problem_set_2 import *
 from problem_set_3 import *
 from random import *
-num1 = random()
-num2 = random()
-num1 = int(num1)
-num2 = int(num2)
+num1 = int(random())
+num2 = int(random())
 
 def main():
   """
