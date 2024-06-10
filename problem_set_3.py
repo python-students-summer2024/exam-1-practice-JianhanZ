@@ -13,7 +13,6 @@ import random
 # The function must return a random integer between these two values, inclusive.
 # Use the function random.randint() to generate the pseudo-random number.
 def get_random_int(min_value, max_value):
-
     return random.randint(min_value, max_value)
 
 

@@ -7,6 +7,11 @@ Feel free to comment out any of it in order to focus only on the functions you a
 from problem_set_1 import *
 from problem_set_2 import *
 from problem_set_3 import *
+from random import *
+num1 = random()
+num2 = random()
+num1 = int(num1)
+num2 = int(num2)
 
 def main():
   """
@@ -21,9 +26,9 @@ def main():
   #respond_to_anything()
   #respond_to_anything_but_nonsense()
   #weather_helper()
-  #get_random_int()
+  #get_random_int(num1,num2)
   #get_guess()
-  play_game()
+  #play_game()
 
 
 # call the main function
